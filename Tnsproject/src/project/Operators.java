@@ -17,7 +17,6 @@ System.out.println("d value after the operations: " + d);
 
 		System.out.println("a , b,c,d values after the operations: " + a + " " + b + " " + c + " " + d);
 				
-		//Ternary operator demonstration
 		  x = (10 == x) ? 1 : 0;	
 		  System.out.println(x);
 	}
