@@ -1,6 +1,6 @@
 package project;
 
-public class Tnsproject1 {
+public class Nestedloop {
 
 	public static void main(String[] args) {
 		int beg=10;
