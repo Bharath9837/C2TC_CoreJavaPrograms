@@ -1,0 +1,11 @@
+package com.tnsif.wrapperclass;
+
+public class Wrapperclass {
+	public static void main(String[] args) {
+		int x=5;
+		Integer y=Integer.valueOf(x);
+		int z=y;
+		System.out.println(y +" "+ z);
+
+	}
+}
